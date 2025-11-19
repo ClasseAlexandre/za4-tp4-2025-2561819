@@ -1,0 +1,8 @@
+body {
+    background-color:aquamarine;
+    font-family: 'Cambria', 'Cochin', 'Georgia', 'Times', 'Times New Roman', serif;
+}
+
+p, h1, h2, h3, ul {
+    color: navy;
+}
