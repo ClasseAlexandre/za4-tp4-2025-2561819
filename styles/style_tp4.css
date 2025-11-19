@@ -21,3 +21,36 @@ h1, h2, h3 {
 p, li{
     text-align: justify;
 }
+
+.titreBoutique {
+    color: blue;
+    margin-bottom: 20px;
+    display: inline;
+    text-decoration: underline solid black 2px;
+}
+
+.titreBoutique:hover {
+    color:black;
+}
+
+.logo {
+    border-radius: 15px;
+}
+
+h2 {
+    color: blue;
+    margin-bottom: 10px;
+    display: inline;
+    text-decoration: underline solid black 2px;
+}
+
+.carPrin {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+    background-color: greenyellow;
+    margin: 10px 0px;
+    padding:15px;
+    border-radius: 5px;
+}
+
