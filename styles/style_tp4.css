@@ -1,8 +1,23 @@
 body {
     background-color:aquamarine;
     font-family: 'Cambria', 'Cochin', 'Georgia', 'Times', 'Times New Roman', serif;
+    margin: 0;
 }
 
 p, h1, h2, h3, ul {
     color: navy;
+    /* text-align: center; */
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+.divPrin {
+    height: 80%;
+    text-align: center;
+}
+
+p, li{
+    text-align: justify;
 }
