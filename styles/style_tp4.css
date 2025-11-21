@@ -54,3 +54,36 @@ h2 {
     border-radius: 5px;
 }
 
+table {
+    width: 320px;
+    border: 0;
+    text-align:center;
+}
+
+caption {
+    font-style: italic;
+    text-decoration: underline;
+    margin: 10px;
+}
+
+.colQuatre {
+    padding: 10px;
+}
+
+button {
+    background-color: navy;
+    color: white;
+    font-style: bold;
+    font-size: 14px;
+    border-radius: 12px;
+    height: 50px;
+    width: 100%;
+    border: 0;
+    /* transition: 0.7s; */
+}
+
+button:hover {
+    background-color: lightblue;
+    color: black;
+    /* transition: 0.7s */
+}
