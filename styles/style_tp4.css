@@ -83,7 +83,7 @@ caption {
 button {
     background-color: navy;
     color: white;
-    font-style: bold;
+    font-weight: bold;
     font-size: 14px;
     border-radius: 12px;
     height: 50px;
